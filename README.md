@@ -6,7 +6,7 @@ This is a solution to the [Frontend Mentor FAQ accordion challenge](https://www.
 
 ### Screenshot
 
-![Screenshot of the project](./screenshot.png)
+![Screenshot of the project](./screenshot.jpg)
 
 ➡️ Live site: https://dzik0.github.io/faq-accordion
 
